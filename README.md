@@ -187,8 +187,6 @@ Trend analysis helps identify shifts in audience preferences over time.
 4. Export generated CSV files.
 5. Connect exported files to Tableau.
 6. Build the dashboard using the provided visualizations.
-7. 
----
 
 ## 👤 Author
 
